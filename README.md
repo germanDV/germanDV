@@ -18,4 +18,10 @@
 <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
 
 ### PGP
+
 Fingerprint: `4A3A EF99 B0EB 587A 6E88 2B1C 282B 421A AD3A FC51`
+
+### The Other Kind Of Languagues
+
+<img alt="ES" src="./flags/arg.svg" align="left" />
+<img alt="EN" src="./flags/usa.svg" />
