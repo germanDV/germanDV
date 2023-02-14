@@ -23,5 +23,5 @@ Fingerprint: `4A3A EF99 B0EB 587A 6E88 2B1C 282B 421A AD3A FC51`
 
 ### The Other Kind Of Languagues
 
-<img alt="ES" src="./flags/arg.svg" align="left" />
-<img alt="EN" src="./flags/usa.svg" />
+<img alt="ES" src="./flags/arg.svg" align="left" width="60" height="30" />
+<img alt="EN" src="./flags/usa.svg" width="60" height="30" />
